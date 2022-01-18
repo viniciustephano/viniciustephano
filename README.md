@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Vinícius Rosa, actually an undergraduate student (Electronic and Telecommunications Engineering) at the São Paulo State University in Brazil.
+- 👀 I’m interested in improving knowledge in MATLAB, C++ and Python.
+- 🌱 I’m currently learning those languages and opened to learn others.
+- 💞️ I’m looking to collaborate on projects related to the Telecommunications field.
+- 📫 Reach me at vinicius.pv@hotmail.com
